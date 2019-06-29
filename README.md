@@ -1,0 +1,2 @@
+# ManguGame
+new repo 
